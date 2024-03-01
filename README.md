@@ -13,4 +13,5 @@
 Для компиляции и запуска используйте эти команды
 
 1 - sudo apt-get install libiw-dev
+
 2 - g++ main.c -liw -o test
